@@ -2,7 +2,7 @@
 
 ### O que você quer aprender?
 
-- Carreira Laravel (recomendado)
+- [Carreira Laravel (recomendado)](/carreira_laravel.md)
 - Microsserviços com Laravel
 - Criar Plataforma EAD
 - Criar um iFood, com Laravel + Vue.js + Flutter?
