@@ -7,7 +7,7 @@
 - [Criar Plataforma EAD](/ead_laravel_vue3.md)
 - [Criar um iFood, com Laravel + Vue.js + Flutter?](/food.md)
 - [Criar Aplicações Multi-Tenancy com o Laravel](/multi-tenant.md)
-- Aprender TypeScript (do zero ao profissional)
+- [Aprender TypeScript (do zero ao profissional)](/typescript.md)
 - Aprender JavaScript
 - Aprender PHP
 - Cursos Gratuitos
