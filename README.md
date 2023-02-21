@@ -8,6 +8,6 @@
 - [Criar um iFood, com Laravel + Vue.js + Flutter?](/food.md)
 - [Criar Aplicações Multi-Tenancy com o Laravel](/multi-tenant.md)
 - [Aprender TypeScript (do zero ao profissional)](/typescript.md)
-- Aprender JavaScript
+- [Aprender JavaScript](/javascript.md)
 - Aprender PHP
 - Cursos Gratuitos
