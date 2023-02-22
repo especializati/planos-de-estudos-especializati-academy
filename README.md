@@ -10,4 +10,4 @@
 - [Aprender TypeScript (do zero ao profissional)](/typescript.md)
 - [Aprender JavaScript](/javascript.md)
 - Aprender PHP
-- Cursos Gratuitos
+- [Cursos Gratuitos](https://academy.especializati.com.br/cursos/gratuitos)
