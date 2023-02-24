@@ -9,5 +9,5 @@
 - [Criar Aplicações Multi-Tenancy com o Laravel](/multi-tenant.md)
 - [Aprender TypeScript (do zero ao profissional)](/typescript.md)
 - [Aprender JavaScript](/javascript.md)
-- Aprender PHP
+- [Aprender PHP](/php.md)
 - [Cursos Gratuitos](https://academy.especializati.com.br/cursos/gratuitos)
