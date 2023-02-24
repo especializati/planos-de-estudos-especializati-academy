@@ -11,3 +11,4 @@
 - [Aprender JavaScript](/javascript.md)
 - [Aprender PHP](/php.md)
 - [Cursos Gratuitos](https://academy.especializati.com.br/cursos/gratuitos)
+- Nest.js (em breve)
