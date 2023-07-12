@@ -11,5 +11,6 @@
 - [Aprender TypeScript (do zero ao profissional)](/typescript.md)
 - [Aprender JavaScript](/javascript.md)
 - [Aprender PHP](/php.md)
+- [DevOps](/devops.md)
 - [Cursos Gratuitos](https://academy.especializati.com.br/cursos/gratuitos)
 - Nest.js (em breve)
