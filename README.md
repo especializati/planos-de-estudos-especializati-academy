@@ -4,6 +4,7 @@
 
 - [Carreira Laravel (recomendado)](/carreira_laravel.md)
 - [APIs com Laravel](/api_laravel.md)
+- [Laravel API com ACL + Vue 3 com TypeScript e Pinia](/laravel_vue3_api_acl.md)
 - [Microsserviços com Laravel](/microservices.md)
 - [Criar Plataforma EAD](/ead_laravel_vue3.md)
 - [Criar um iFood, com Laravel + Vue.js + Flutter?](/food.md)
