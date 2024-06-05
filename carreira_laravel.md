@@ -4,7 +4,7 @@
 - [Curso PHP PSRs (Boas Práticas)](https://academy.especializati.com.br/curso/php-psrs-boas-praticas)
 - [Curso PHP PDO](https://academy.especializati.com.br/curso/php-pdo)
 - [Curso PHP Composer](https://academy.especializati.com.br/curso/php-composer)
-- 1 - [Curso de Laravel 9.x](https://academy.especializati.com.br/curso/laravel-9-gratuito)
+- 1 - [Curso de Laravel 11](https://academy.especializati.com.br/curso/laravel-11-completo-e-gratuito)
 - 2 - [Curso de Laravel Eloquent](https://academy.especializati.com.br/curso/laravel-eloquent)
 - 3 - [Curso de Laravel Relacionamentos de Tabelas](https://academy.especializati.com.br/curso/laravel-banco-de-dados-relacional)
 - [Continua](https://academy.especializati.com.br/categoria/laravel) 
